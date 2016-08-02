@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="382233" started-at="2016-07-31T04:53:29Z" finished-at="2016-07-31T04:59:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="382233" started-at="2016-07-31T04:53:29Z" finished-at="2016-07-31T04:59:52Z">
+      <class name="finalproject.homeworks">
+        <test-method status="PASS" signature="initiate()[pri:0, instance:finalproject.homeworks@4883b407]" name="initiate" is-config="true" duration-ms="18226" started-at="2016-07-30T21:53:32Z" finished-at="2016-07-30T21:53:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiate -->
+        <test-method status="PASS" signature="NPUStudentLogin(java.lang.String, java.lang.String)[pri:0, instance:finalproject.homeworks@4883b407]" name="NPUStudentLogin" duration-ms="361751" started-at="2016-07-30T21:53:50Z" data-provider="studentdata" finished-at="2016-07-30T21:59:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[16243ks]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sriram123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NPUStudentLogin -->
+      </class> <!-- finalproject.homeworks -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
